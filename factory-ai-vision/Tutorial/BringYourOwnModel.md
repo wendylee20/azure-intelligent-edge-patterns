@@ -115,10 +115,18 @@ Start inputting all information required to bring the model to the platform
 ## Start running the model and see the result
 Once you added the model, you will see the model shown on the list. 
 ![Diagram - successed added](https://github.com/linkernetworks/azure-intelligent-edge-patterns/blob/develop/factory-ai-vision/assets/added.png) 
-
-The next, you will go to deployment and set up the condition. Choose your own model and the object you would like to detect. Once you set the deployment, you will be able to see your own up running and doing inference
+ 
+The next, you will go to deployment and set up the condition. Choose your own model and the object you would like to detect. Once you set the deployment, you will be able to see your own model up and running, and doing inference
 ![Diagram - deployment](https://github.com/linkernetworks/azure-intelligent-edge-patterns/blob/develop/factory-ai-vision/assets/chooseownmodel.png) 
 <br/><br/>
 
+You can also go to the Camera tab to add a new camera.
+![Diagram - add new camera](https://github.com/linkernetworks/azure-intelligent-edge-patterns/blob/develop/factory-ai-vision/assets/ownmodel1.png)
+![Diagram - add new camera1](https://github.com/linkernetworks/azure-intelligent-edge-patterns/blob/develop/factory-ai-vision/assets/ownmodel2.png)
+<br/><br/>
 
-Learn how to [Bring your own model to the solution](Bring_your_own_model.md)
+You can now see your own model up and running, and doing inferences
+![Diagram - new deployment](https://github.com/linkernetworks/azure-intelligent-edge-patterns/blob/develop/factory-ai-vision/assets/ownmodel3.png)
+<br/><br/>
+
+
